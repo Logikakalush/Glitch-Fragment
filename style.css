@@ -1,0 +1,35 @@
+body{
+    background-color: rgb(172, 144, 102);
+    font-size:20px
+
+}
+nav a{
+    text-decoration: none;
+    color:purple;
+    border:5px solid rgb(39, 11, 39);
+padding:5px  ;
+background-color: rgb(158, 133, 182);
+margin:10px
+
+
+
+
+}
+
+.kartinka{
+text-align: center;
+
+
+
+}
+header{
+background-color: rgb(117, 96, 64);
+padding:15px
+
+}
+h3{
+font-family:fantasy
+
+
+
+}
